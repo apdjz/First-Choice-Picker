@@ -5,7 +5,7 @@ This program  tries to give people their first choice. It should give as many lo
 
 Three choices per person
 
-Ex.person 1 chocolate,candy,suite.
+Ex.person 1 chocolate,candy,sweets.
 
 person 2 candy, cookies, pie.
 
