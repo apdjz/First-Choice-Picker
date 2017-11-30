@@ -16,6 +16,8 @@ person 4 candy, chocolate, pie.
 person 5 candy, chocolate, cookies.
 
 person 6 candy, chocolate, cookies.
+______________________________________________________
+
 
 Output:
 Ex.person 1 chocolate.
