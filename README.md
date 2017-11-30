@@ -20,6 +20,7 @@ ______________________________________________________
 
 
 Output:
+
 Ex.person 1 chocolate.
 
 person 2 candy
