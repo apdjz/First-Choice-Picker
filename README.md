@@ -1,11 +1,12 @@
 # First-Choice-Picker
 
-This program  tries to give people their first choice. It should give as many lowest choice numbers as possible. 
+This program  tries to give people their first choice. It should give the least "last" choice numbers as possible. 
 
 
 Three choices per person
 
-Ex.person 1 chocolate,candy,sweets.
+Ex.
+person 1 chocolate,candy,sweets.
 
 person 2 candy, cookies, pie.
 
