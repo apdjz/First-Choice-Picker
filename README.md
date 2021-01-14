@@ -3,7 +3,7 @@
 This program  tries to give people their first choice. It should give the least "last" choice numbers as possible. 
 
 
-Three choices per person
+Three choices per person; in order of preference (left to right)
 
 Ex.
 person 1 chocolate,candy,sweets.
